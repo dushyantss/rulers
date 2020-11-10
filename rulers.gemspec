@@ -38,6 +38,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rubocop-shopify'
   spec.add_development_dependency 'rubocop-rspec'
   spec.add_development_dependency 'rack-test'
+  spec.add_development_dependency 'sorbet'
   # Solargraph for intellisense
   spec.add_development_dependency 'solargraph'
 end

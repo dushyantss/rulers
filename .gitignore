@@ -6,4 +6,9 @@
 /pkg/
 /spec/reports/
 /tmp/
+
+# my built gems
 *.gem
+
+# sorbet errors
+/sorbet/**/errors.txt
